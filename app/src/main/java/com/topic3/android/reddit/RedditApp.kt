@@ -1,4 +1,3 @@
-package com.topic3.android.reddit
 
 
 import android.annotation.SuppressLint
@@ -14,6 +13,7 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.res.vectorResource
 import androidx.compose.ui.unit.dp
+import com.topic3.android.reddit.R
 
 import com.topic3.android.reddit.appdrawer.AppDrawer
 import com.topic3.android.reddit.routing.RedditRouter

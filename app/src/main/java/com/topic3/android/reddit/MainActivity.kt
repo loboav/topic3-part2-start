@@ -1,5 +1,6 @@
 package com.topic3.android.reddit
 
+import RedditApp
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
